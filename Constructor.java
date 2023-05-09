@@ -1,14 +1,9 @@
-class student{
-    
-    Student(){
-        // this is constructor without paremetar . it extiquton first 
-        System.out.println("when the obj creat at that moment the constructor called");
-    }
-}
 
 public class Constructor {
-
+    Constructor(){
+        System.out.println("i am Constructor");
+    }
     public static void main(String[] args) {
-        Student s1=new Student();
+        Constructor c=new Constructor();
     }
 }
