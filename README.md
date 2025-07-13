@@ -11,5 +11,9 @@
   # 3.Polymorphism:
   =>one thing behaving multiple ways(method overloading/overriding)
 
-  # 4.Abstraction:"
+  # 4.Abstraction:
   =>Hiding internal details showing only essential features
+
+  # 5.Constructor:
+  =>1.called automatically when an object is created.
+  2.overload constructor by using different parameters.
