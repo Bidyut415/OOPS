@@ -61,7 +61,7 @@ public class ConstructorDemo {
         e2.printDetails();
 
         System.out.println("\n----- Copy Constructor -----");
-        Employee e3 = new Employee(e2);      // Copy constructor
+        Employee e3 = new Employee(e2);     // Copy constructor
         e3.printDetails();
 
         System.out.println("\n----- Method Chaining with Constructor -----");
